@@ -9,7 +9,7 @@ patchesJson6902:
       version: v1
       group: apps
       kind: Deployment
-      name: bgd
+      name: bgdk
       namespace: bgdk
     patch: |- 
       - op: replace
