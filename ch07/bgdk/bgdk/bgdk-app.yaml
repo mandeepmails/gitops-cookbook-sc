@@ -14,9 +14,9 @@ spec:
     targetRevision: main
 # optional
   syncPolicy:
-    automated: {}
-#     automated:
+#    automated: {}
+     automated:
 # #Enables automatic pruning
-#       prune: true
+       prune: true
 #       #enabling selfheal property
-#       selfHeal: true
+       selfHeal: true
