@@ -23,6 +23,6 @@ spec:
         name: bgdk
         env:
         - name: COLOR
-          value: "blue"
+          value: "green"
         resources: {}
 ---
